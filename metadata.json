@@ -1,0 +1,6 @@
+{
+  "name": "BDG Game Official",
+  "description": "Explore BDG Game information, login and registration guides, gameplay instructions, deposit and withdrawal information, FAQs and helpful gaming resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
